@@ -122,7 +122,7 @@ ln -s %{_datadir}/pixmaps/system-logo-white.png system-logo-white.png
 popd
 
 # kde wallpaper theme
-mkdir -p $RPM_BUILD_ROOT/%{_datadir}/wallpapers/
+mkdir -p $RPM_BUILD_ROOT/%{_datadir}/wallpapers/ClearOS7/contents/images
 cp -rp kde-plasma/ClearOS7/ $RPM_BUILD_ROOT/%{_datadir}/wallpapers
 pushd $RPM_BUILD_ROOT/%{_datadir}/wallpapers/ClearOS7/contents/images
 ln -s %{_datadir}/backgrounds/day.jpg 2560x1600.jpg
