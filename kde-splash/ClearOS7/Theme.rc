@@ -1,0 +1,8 @@
+[KSplash Theme: ClearOS7]
+Name = ClearOS7
+Description = Clear Operating System 7 Theme
+Version = 7.0
+Author = ClearFoundation, LTD
+Homepage = http://www.clearfoundation.com/
+
+Engine = KSplashX

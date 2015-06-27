@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=ClearOS7
+
+X-KDE-PluginInfo-Author=ClearFoundation, LTD
+X-KDE-PluginInfo-Name=ClearOS7
+X-KDE-PluginInfo-Version=0.9
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=ClearOS7
+defaultFileSuffix=.jpg
+defaultWidth=2560
+defaultHeight=1600
