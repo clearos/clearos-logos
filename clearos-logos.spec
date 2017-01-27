@@ -3,7 +3,7 @@
 Name: clearos-logos
 Summary: ClearOS-related icons and pictures
 Version: 70.0.6 
-Release: 5%{?dist}
+Release: 6%{?dist}
 Group: System Environment/Base
 URL: http://www.clearfoundation.com
 # No upstream, done in internal git
